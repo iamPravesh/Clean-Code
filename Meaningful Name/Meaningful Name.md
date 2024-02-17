@@ -16,9 +16,9 @@
 <h3>Use Searchable Names</h3>
 <p>Suppose, we need to use number of days in a week in the code. We can use the number 7 wherever needed, but it can mean anything depending on the context. Instead, make a constant(like NUMBER_OF_DAYS_IN_WEEK) and use it wherever needed. </p> <br />
 
-<h3>Avoid Encodings</h3>
+<h3>Avoid Encodings</h3><br />
 
-<h3>Avoid Mental Mapping</h3>
+<h3>Avoid Mental Mapping</h3><br />
 
 <h3>Don't Be Cute</h3>
 <p>Choose clarity over entertainment value. Say what you mean and mean what you say</p><br />
@@ -27,7 +27,7 @@
 <p>A consistent lexicon is a great boon to the programmers who must use your code.</p><br />
 
 <h3>Don't Pun</h3>
-<p>Dont use the same word for two purposes. Using the same term for two different ideas is essentially a pun.</p>
+<p>Dont use the same word for two purposes. Using the same term for two different ideas is essentially a pun.</p><br />
 
 <h3>Use Solution Domain Names</h3>
 <p>Use Conmputer Science (CS) terms, algorithm names, pattern names, math terms, and so forth. Choose technical names.</p><br />
