@@ -1,0 +1,14 @@
+> Use Intention-Revealing Names
+> Avoid Disinformation
+> Make Meaningful Distinctions
+> Use Pronounceable Names
+> Use Searchable Names
+> Avoid Encodings
+> Avoid Mental Mapping
+> Don't Be Cute
+> Pick One Word Per Concept
+> Don't Pun
+> Use Solution Domain Names
+> Use Problem Domain Names
+> Add Meaningful Context
+> Don't Add Gratutious Context
