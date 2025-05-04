@@ -22,11 +22,17 @@ public class MeaningfulName {
         return flaggedCells;
     }
 
+
 //    If names must be different, then they should also mean something different.
 
 //    The length of a name should correspond to the size of its scope.
+    /*
+    * sdoifma
+    * asdinaosd
+    * osuadionas
+    * */
 
     public static void main(String[] args) {
-        System.out.println("hello world");
+        System.out.println( "tak" );
     }
 }
